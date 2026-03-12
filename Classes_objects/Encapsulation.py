@@ -1,0 +1,1 @@
+#  Hiding the "guts" of the object to keep them safe. We use __ (double underscore) to make an attribute private.

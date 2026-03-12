@@ -1,0 +1,1 @@
+# The Concept: A child class takes everything from the parent class so you don't have to rewrite code.
