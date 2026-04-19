@@ -3,7 +3,7 @@ phonebook = {
     "phone_number_1": 610617548
 }
 
-phonebook["name_1"] = "sathiya"
+phonebook["name"] = "sathiya"
 
 phonebook["phone_number_1"] = 7402230745
 
